@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# node base force graph
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a task for arad co.
+
+# Preview
+![2023-05-02_14-01-38](https://user-images.githubusercontent.com/111693080/235631581-a20d3247-2e63-4cae-88d3-ad0184a5002f.gif)
 
 ## Available Scripts
 
